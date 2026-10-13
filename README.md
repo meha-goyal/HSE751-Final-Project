@@ -1,6 +1,8 @@
 # HSE751-Final-Project
 
 Predicting 30-Day Hospital Readmission in Diabetic Patients
+Colab notebook: https://drive.google.com/file/d/1gAOhz_hFbsdFYXWhYGLN6XD3IAnjY-kI/view?usp=sharing
+
 Data Selection
 
 For my project, I'm proposing to use the Diabetes 130-US Hospitals for Years 1999–2008 dataset from the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
